@@ -1,10 +1,9 @@
+import ToDo from "./components/ToDo";
 
 function App() {
  
   return (
-    <div className="App">
-      Hello world
-    </div>
+    <ToDo/>
   );
 }
 
